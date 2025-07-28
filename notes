@@ -1,0 +1,41 @@
+Open CV(Open source computer vision)
+------------------------------------
+- visual data analyze and processing
+(images,videos,pixel arrays)
+- multiple languague - python,c++,java
+- platform independent
+- real time processing
+- CNN,YOLO,SSD,ResNet
+
+core functionalities
+-------------------------
+- image processing
+- face detection
+- object tracking
+- video analysis
+- drawing function
+- feature detection
+
+
+system requirements
+---------------------
+windows 10 or above
+python
+opencv
+
+1  RGB
+0  GRAY GREY?
+-1 RGBA
+
+
+
+
+
+
+
+
+
+
+
+
+
