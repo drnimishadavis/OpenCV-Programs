@@ -29,7 +29,11 @@ opencv
 
 
 
-
+Blurring
+-------------
+Gaussian Blurring
+Median Blurring
+Bilateral Blur
 
 
 
