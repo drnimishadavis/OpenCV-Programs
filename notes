@@ -35,9 +35,26 @@ Gaussian Blurring
 Median Blurring
 Bilateral Blur
 
+GrayScaling
+--------------
+
+img=cv.imread('img/logo.png',1)
+
+imggray=cv.cvtColor(imgr,cv.COLOR_BGR2GRAY)
 
 
+Resizing
+-------------
+variablename=cv.resize(imagename,dsize,interpolation)
+small=cv.resize(img_rgb,(img_rgb.shape[1]//2,img_rgb.shape[0]//2),interpolation=cv.INTER_AREA)
 
+- Changing the dimensions (width × height) of an image.
+- Adjust image to fit models, reduce storage, or improve performance.
+
+Methods:
+
+	- Downsampling: Reducing size (loses detail).
+	- Upsampling: Increasing size (may introduce blur).
 
 
 
